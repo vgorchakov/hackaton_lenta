@@ -11,7 +11,6 @@ Took 2nd place on public and private leaderboard out of 100+ teams.
   test.csv - файл с датой для валидации решения на хакатоне
   
 Ноутбуки:
-eda.ipynb - разведочный анализ
 user_class.ipynb - классификация пользователей в 7 групп (число кластеров получено методом локтя)
 class_rec.ipynb - рекомендации для групп
 local_validation_groups.ipynb - соединение личных рекомендаций и групповых
